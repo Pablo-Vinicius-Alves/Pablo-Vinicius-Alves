@@ -31,6 +31,14 @@ Neste GitHub você encontrará projetos, exercícios e atividades desenvolvidas 
 
 Os projetos têm como objetivos colocar em prática os conceitos aprendidos em aula e acompanhar minha evolução como desenvolvedor.
 
+## Estatísticas 📊
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pblalves29-hue&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblalves29-hue&layout=compact&theme=default" />
+</p>
+
+
 ## Objetivos 📝
 
 Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver meus projetos e adquirir experiência na área de desenvolvimento de software.
