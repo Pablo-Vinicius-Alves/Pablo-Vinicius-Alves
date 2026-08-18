@@ -36,7 +36,7 @@ Os projetos têm como objetivos colocar em prática os conceitos aprendidos em a
 
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pblalves29-hue&show_icons=true&theme=default" />
+ <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=pblalves29-hue&show_icons=true&theme=default" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblalves29-hue&layout=compact&theme=default" />
 </p>
 
