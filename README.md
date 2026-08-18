@@ -5,7 +5,7 @@ Meu nome é Pablo e sou estudante de **Desenvolvimento de Sistemas**.
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa práticas de desenvolvimento de software.
 
 ## Tecnologias em aprendizado
-
+<p
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -13,6 +13,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+</p>
 
 ## Atualmente estudando 
 
