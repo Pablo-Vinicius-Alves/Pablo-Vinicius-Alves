@@ -7,6 +7,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 ## Tecnologias que utilizo 🚀
 
 <p align="center">
+  
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -14,6 +15,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+  
 </p>
 
 ## Atualmente estudando 
@@ -34,8 +36,10 @@ Os projetos têm como objetivos colocar em prática os conceitos aprendidos em a
 ## Estatísticas 📊
 
 <p align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pblalves29-hue&show_icons=true&theme=default&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblalves29-hue&layout=compact&theme=default" />
+  
 </p>
 
 
