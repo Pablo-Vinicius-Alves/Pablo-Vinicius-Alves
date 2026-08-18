@@ -8,7 +8,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 
 * HTML
 
-<img heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
 * CSS
 * JavaScript
