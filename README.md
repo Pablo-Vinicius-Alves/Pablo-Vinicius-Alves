@@ -1,7 +1,13 @@
 # Olá 👋
 
 Meu nome é Pablo e sou estudante de **Desenvolvimento de Sistemas**.
+<p align="left">
+  <a href="https://instagram.com/pablo.a10">
+    <img src="https://img.shields.io/badge/Instagram-@PABLO.A10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+ </p>
 
+---
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa práticas de desenvolvimento de software.
 
 
