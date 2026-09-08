@@ -1,15 +1,21 @@
-# Olá 👋
+# Olá, meu nome é Pablo!👋
 
-Meu nome é Pablo e sou estudante de **Desenvolvimento de Sistemas**.
+Sou estudante de **Desenvolvimento de Sistemas**.
+## Contato🧑‍💻
 <p align="left">
+  <a href="mailto:pblalves29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://instagram.com/pablo.a10">
     <img src="https://img.shields.io/badge/Instagram-@PABLO.A10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
  </p>
 
----
-Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa práticas de desenvolvimento de software.
+ <p align="center">
+  <img src="https://orig00.deviantart.net/9a66/f/2017/274/9/4/ffbe___cloud_strife_gif_1_by_zerolympiustrife-dbp6qj1.png" width="200" alt="Cloud Strife pixel"/>
+</p>
 
+---
 
 ## Tecnologias que utilizo 🚀
 <div align="center">
@@ -49,33 +55,23 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
  
  ---
 
-
-
-## Atualmente estudando 
-
-* Lógica de Programação
-* Desenvolvimento Front-End
-* Desenvolvimento Back-End
-* API REST
-* Banco de dados
-* Git e GitHub
-
 ## Projetos 📁
 
 Neste GitHub você encontrará projetos, exercícios e atividades desenvolvidas durante meus estudos.
 
 Os projetos têm como objetivos colocar em prática os conceitos aprendidos em aula e acompanhar minha evolução como desenvolvedor.
 
-## Estatísticas 📊
-
+<details>
+  <summary>Github Stats 📊</summary>
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Pablo-Vinicius-Alves&show_icons=true&theme=default" />
  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Pablo-Vinicius-Alves&layout=compact&theme=default" />
 </p>
 
+</details>
 
-## Objetivos 📝
-
-Meu objetivo é continuar aprimorando meus conhecimentos em tecnologia, desenvolver meus projetos e adquirir experiência na área de desenvolvimento de software.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pablo-Vinicius-Alves&style=flat-square&color=BD93F9" alt="profile views"/>
+</div>
 
