@@ -3,18 +3,21 @@
 Sou estudante de **Desenvolvimento de Sistemas**.
 ## Contato🧑‍💻
 <p align="left">
+  
   <a href="mailto:pblalves29@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?&logo=gmail&logoColor=white" />
 </a>
+  
+  <a href="https://www.linkedin.com/in/pablo-vinícius-alves-pisolato-0a6687325/">
+<img src="https://img.shields.io/badge/LinkedIn-Pablo%20Alves-161b22?&logo=LinkedIn&logoColor=blue" />
+</a>
+  
   <a href="https://instagram.com/pablo.a10">
-    <img src="https://img.shields.io/badge/Instagram-@PABLO.A10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@PABLO.A10-E4405F?&logo=instagram&logoColor=white" />
   </a>
+  
  </p>
-
- <p align="center">
-  <img src="https://orig00.deviantart.net/9a66/f/2017/274/9/4/ffbe___cloud_strife_gif_1_by_zerolympiustrife-dbp6qj1.png" width="200" alt="Cloud Strife pixel"/>
-</p>
-
+ 
 ---
 
 ## Tecnologias que utilizo 🚀
@@ -60,9 +63,10 @@ Sou estudante de **Desenvolvimento de Sistemas**.
 
 ## Projetos 📁
 
-Neste GitHub você encontrará projetos, exercícios e atividades desenvolvidas durante meus estudos.
+Este perfil é uma coleção de projetos pessoais, estudos e experimentos desenvolvidos ao longo da minha jornada como desenvolvedor.
 
-Os projetos têm como objetivos colocar em prática os conceitos aprendidos em aula e acompanhar minha evolução como desenvolvedor.
+Aqui registro meu aprendizado na prática, explorando tecnologias, resolvendo problemas e evoluindo continuamente minhas habilidades em Desenvolvimento de Software e Análise de Dados.
+
 
 <details>
   <summary>Github Stats 📊</summary>
@@ -76,6 +80,10 @@ Os projetos têm como objetivos colocar em prática os conceitos aprendidos em a
 </div>
 
 </details>
+
+<p align="center">
+  <img src="https://orig00.deviantart.net/9a66/f/2017/274/9/4/ffbe___cloud_strife_gif_1_by_zerolympiustrife-dbp6qj1.png" width="200" alt="Cloud Strife pixel"/>
+</p>
 
 
   
