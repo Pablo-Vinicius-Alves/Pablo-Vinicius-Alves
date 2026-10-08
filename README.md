@@ -76,9 +76,6 @@ Aqui registro meu aprendizado na prática, explorando tecnologias, resolvendo pr
  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Pablo-Vinicius-Alves&layout=compact&theme=monokai" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pablo-Vinicius-Alves&style=flat-square&color=BD43F3" alt="profile views"/>
-</div>
 
 </details>
 
